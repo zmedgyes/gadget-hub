@@ -1,0 +1,22 @@
+{
+  "name": "gadget-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmedgyes/gadget-hub.git"
+  },
+  "author": "Zsolt Medgyesi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zmedgyes/gadget-hub/issues"
+  },
+  "homepage": "https://github.com/zmedgyes/gadget-hub#readme",
+  "devDependencies": {
+    "@nestjs/cli": "^8.1.5"
+  }
+}
